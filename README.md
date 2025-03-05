@@ -5,3 +5,4 @@ This is a TA meterial for Machine Learning basics and must-know opertion. Overal
 - Basic / Reg Cost Function
 - Basic / Reg Gradient Desc
 - Feature Mapping
+- Reg to Control Overfitting
